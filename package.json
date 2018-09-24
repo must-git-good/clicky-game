@@ -1,7 +1,7 @@
 {
   "name": "memory_game",
   "version": "0.1.0",
-  "homepage": "http://must-git-good.github.io/memory-game/",
+  "homepage": "http://must-git-good.github.io/clicky-game/",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
